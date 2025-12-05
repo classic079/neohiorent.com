@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Property Management Northeast Ohio | NEO Rental Agent | Lorain, Cleveland, Akron</title>
+  <meta name="description" content="Full-service property management and real estate brokerage in Northeast Ohio. Buy, manage, and sell investment properties with 26 years of local expertise in Lorain, Cleveland, and Akron.">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="NEO Rental Agent | Property Management Northeast Ohio">
+  <meta property="og:description" content="Buy. Manage. Sell. All under one roof. 26 years of Northeast Ohio property management expertise.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://neohiorent.com">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/styles.css">
+
+  <!-- Schema Markup -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "RealEstateAgent",
+    "name": "NEO Rental Agent",
+    "description": "Full-service property management and real estate brokerage in Northeast Ohio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1927 Cooper Foster Park Rd",
+      "addressLocality": "Amherst",
+      "addressRegion": "OH",
+      "postalCode": "44001"
+    },
+    "telephone": "(440) 240-8406",
+    "openingHours": "Mo-Fr 09:00-17:00",
+    "areaServed": ["Lorain County", "Cuyahoga County", "Erie County", "Summit County", "Medina County"],
+    "url": "https://neohiorent.com"
+  }
+  </script>
+</head>
+<body>
+  <!-- Skip Link -->
+  <a href="#main" class="skip-link">Skip to main content</a>
+
+  <!-- Header -->
+  <header>
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <div class="logo-icon">NEO</div>
+        Rental Agent
+      </a>
+      <nav>
+        <a href="landlords.html">For Landlords</a>
+        <a href="available-rentals.html">Rentals</a>
+        <a href="tenants.html">Tenants</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="contact.html" class="nav-cta">Free Consultation</a>
+      </nav>
+      <button class="mobile-menu-btn" aria-label="Toggle menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+    <!-- Mobile Navigation -->
+    <div class="mobile-nav">
+      <a href="landlords.html">For Landlords</a>
+      <a href="available-rentals.html">Rentals</a>
+      <a href="tenants.html">Tenants</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="contact.html" class="nav-cta">Free Consultation</a>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- Hero -->
+    <section class="hero">
+      <div class="hero-content">
+        <div class="hero-text">
+          <h1>Buy. Manage. Sell.<br><span>All Under One Roof.</span></h1>
+          <p>Northeast Ohio's full-service property management and real estate brokerage. Whether you own 1 rental or 50, we help you build generational wealth through real estate.</p>
+          <div class="hero-buttons">
+            <a href="contact.html" class="btn btn-primary">Free Portfolio Consultation →</a>
+            <a href="tenants.html" class="btn btn-secondary">I'm a Tenant</a>
+          </div>
+          <div class="hero-stats">
+            <div class="stat">
+              <div class="stat-number">26</div>
+              <div class="stat-label">Years in Business</div>
+            </div>
+            <div class="stat">
+              <div class="stat-number">5</div>
+              <div class="stat-label">Counties Served</div>
+            </div>
+            <div class="stat">
+              <div class="stat-number">1</div>
+              <div class="stat-label">Team, Full Service</div>
+            </div>
+          </div>
+        </div>
+        <div class="hero-visual">
+          <div class="hero-card">
+            <h3>Full Investor Lifecycle</h3>
+            <div class="hero-card-item">
+              <div class="hero-card-icon">🔑</div>
+              <div class="hero-card-text">
+                <h4>Buy</h4>
+                <p>Find & acquire investment properties</p>
+              </div>
+            </div>
+            <div class="hero-card-item">
+              <div class="hero-card-icon">🏠</div>
+              <div class="hero-card-text">
+                <h4>Manage</h4>
+                <p>Full-service property management</p>
+              </div>
+            </div>
+            <div class="hero-card-item">
+              <div class="hero-card-icon">📈</div>
+              <div class="hero-card-text">
+                <h4>Sell</h4>
+                <p>Maximize your return when ready</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Services -->
+    <section class="services" id="services">
+      <div class="section-header">
+        <span class="section-tag">Our Services</span>
+        <h2>Everything You Need. One Team.</h2>
+        <p>Most property managers just collect rent. We help you build a portfolio. Licensed brokerage with agents on staff—buy, sell, and manage without the handoffs.</p>
+      </div>
+      <div class="services-grid">
+        <div class="service-card">
+          <div class="service-icon">🔍</div>
+          <h3>Investment Acquisition</h3>
+          <p>Find the right properties in Northeast Ohio. We know which deals make sense because we manage them every day.</p>
+          <a href="landlords.html" class="service-link">Learn more →</a>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">📋</div>
+          <h3>Tenant Screening</h3>
+          <p>Background checks, credit reports, income verification, and rental history. We don't trust—we verify.</p>
+          <a href="landlords.html" class="service-link">Learn more →</a>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">💰</div>
+          <h3>Rent Collection</h3>
+          <p>On-time payments, every month. We chase late rent so you don't have to. Online payments for tenants.</p>
+          <a href="landlords.html" class="service-link">Learn more →</a>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">🔧</div>
+          <h3>Maintenance</h3>
+          <p>24/7 emergency response. Trusted local contractors. Proactive upkeep to protect your investment.</p>
+          <a href="landlords.html" class="service-link">Learn more →</a>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">📊</div>
+          <h3>Financial Reporting</h3>
+          <p>Monthly statements, tax-ready reports, transparent accounting. Know exactly how your properties perform.</p>
+          <a href="landlords.html" class="service-link">Learn more →</a>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">🏷️</div>
+          <h3>Property Sales</h3>
+          <p>Ready to sell? List with agents who know your property's full history. We'll maximize your return.</p>
+          <a href="landlords.html" class="service-link">Learn more →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Why Us -->
+    <section class="why-us" id="why-us">
+      <div class="why-us-content">
+        <div class="section-header">
+          <span class="section-tag">Why NEO Rental Agent</span>
+          <h2>26 Years of Local Expertise</h2>
+          <p>We're not a national chain. We live here, we invest here, and we've been doing this longer than most.</p>
+        </div>
+        <div class="why-us-grid">
+          <div class="why-us-item">
+            <h3>🏢 Licensed Brokerage</h3>
+            <p>Real estate agents on staff. Buy, sell, and manage—all under one roof. No referrals, no handoffs, no hassle.</p>
+          </div>
+          <div class="why-us-item">
+            <h3>📍 Local Market Knowledge</h3>
+            <p>We know Northeast Ohio rental rates, tenant pools, and neighborhoods. That knowledge maximizes your returns.</p>
+          </div>
+          <div class="why-us-item">
+            <h3>📈 Scale With Confidence</h3>
+            <p>Have 50 rentals? No problem. Want to buy 50 more? We'll find them. Ready to sell? We handle it all.</p>
+          </div>
+          <div class="why-us-item">
+            <h3>🤝 One Relationship</h3>
+            <p>Your property manager knows your properties inside and out. When it's time to sell, there's no learning curve.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Service Area -->
+    <section class="service-area" id="areas">
+      <div class="service-area-content">
+        <div class="area-map">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d191757.04740396045!2d-82.19683845!3d41.3978569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8830d7958b2efab7%3A0x29d6c63e9023fd09!2sLorain%20County%2C%20OH!5e0!3m2!1sen!2sus!4v1699999999999!5m2!1sen!2sus"
+            allowfullscreen=""
+            loading="lazy"
+            title="Service area map of Lorain County, Ohio">
+          </iframe>
+        </div>
+        <div class="area-text">
+          <h2>Serving All of Northeast Ohio</h2>
+          <p>From Lake Erie to Akron, we manage properties across five counties. Local expertise in every neighborhood we serve.</p>
+          <div class="area-cities">
+            <span class="area-city">Amherst</span>
+            <span class="area-city">Lorain</span>
+            <span class="area-city">Elyria</span>
+            <span class="area-city">Cleveland</span>
+            <span class="area-city">Lakewood</span>
+            <span class="area-city">Parma</span>
+            <span class="area-city">Avon</span>
+            <span class="area-city">Avon Lake</span>
+            <span class="area-city">Westlake</span>
+            <span class="area-city">Rocky River</span>
+            <span class="area-city">North Ridgeville</span>
+            <span class="area-city">Akron</span>
+            <span class="area-city">Sandusky</span>
+            <span class="area-city">Vermilion</span>
+            <span class="area-city">Oberlin</span>
+            <span class="area-city">Medina</span>
+            <span class="area-city">Brunswick</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta">
+      <div class="cta-content">
+        <h2>Ready to Maximize Your Investment?</h2>
+        <p>Whether you're buying your first rental or managing a portfolio, let's talk. Free consultation, no obligation.</p>
+        <a href="contact.html" class="btn btn-navy">Get Your Free Consultation →</a>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-content">
+      <div class="footer-brand">
+        <h3>NEO Rental Agent</h3>
+        <p>Full-service property management and real estate brokerage. Building generational wealth in Northeast Ohio since 1998.</p>
+        <div class="footer-contact-item">📍 1927 Cooper Foster Park Rd, Amherst, OH 44001</div>
+        <div class="footer-contact-item">📞 (440) 240-8406</div>
+        <div class="footer-contact-item">🕐 Mon–Fri 9am–5pm</div>
+      </div>
+      <div class="footer-column">
+        <h4>For Landlords</h4>
+        <ul>
+          <li><a href="landlords.html">Property Management</a></li>
+          <li><a href="landlords.html#buy">Buy Investment Property</a></li>
+          <li><a href="landlords.html#sell">Sell Your Rentals</a></li>
+          <li><a href="contact.html">Free Consultation</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>For Tenants</h4>
+        <ul>
+          <li><a href="https://neorentalagent.managebuilding.com/Resident/Public/Rentals" target="_blank" rel="noopener">Available Rentals</a></li>
+          <li><a href="https://neorentalagent.managebuilding.com/Resident/rental-application/new" target="_blank" rel="noopener">Apply Online</a></li>
+          <li><a href="https://neorentalagent.managebuilding.com/Resident/public/home" target="_blank" rel="noopener">Pay Rent</a></li>
+          <li><a href="https://neorentalagent.managebuilding.com/Resident/public/home" target="_blank" rel="noopener">Maintenance Request</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="mailto:Kstrader@neorentalagent.com">Kim Strader</a></li>
+          <li><a href="mailto:Mallen@neorentalagent.com">Mike Allen</a></li>
+          <li><a href="contact.html">Contact Form</a></li>
+          <li><a href="about.html">About Us</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div>© <span class="current-year">2024</span> NEO Rental Agent. All rights reserved.</div>
+      <div>Licensed Real Estate Brokerage | Lorain County, Ohio</div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

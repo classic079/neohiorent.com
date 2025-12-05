@@ -1,0 +1,71 @@
+# NEO Rental Agent - AI/LLM Context File
+# https://neohiorent.com
+# Last updated: 2025-01-01
+
+## Business Overview
+NEO Rental Agent is a full-service property management company and licensed real estate brokerage based in Amherst, Ohio. Founded in 1998, we have been serving Northeast Ohio landlords and property investors for over 26 years.
+
+## Company Information
+- Name: NEO Rental Agent
+- Founded: 1998
+- Location: 1927 Cooper Foster Park Rd, Amherst, OH 44001
+- Phone: (440) 240-8406
+- Hours: Monday-Friday 9am-5pm
+- Website: https://neohiorent.com
+
+## Team
+- Kim Strader - Realtor & Property Manager (Kstrader@neorentalagent.com)
+- Mike Allen - Property Manager (Mallen@neorentalagent.com)
+
+## Services Offered
+
+### Property Management
+- Tenant screening (credit checks, background checks, income verification, rental history)
+- Marketing and tenant placement
+- Rent collection and enforcement
+- 24/7 maintenance coordination
+- Legal compliance and eviction handling
+- Monthly financial statements and tax-ready reporting
+
+### Real Estate Brokerage
+- Investment property acquisition assistance
+- Market analysis for rental properties
+- Property sales for investors
+- Full transaction support from search to closing
+
+## Service Area
+We serve five counties in Northeast Ohio:
+
+### Lorain County (Primary)
+Amherst, Lorain, Elyria, Avon, Avon Lake, North Ridgeville, Oberlin, Vermilion, Wellington, Sheffield Lake, Grafton
+
+### Cuyahoga County
+Cleveland, Lakewood, Parma, Westlake, Rocky River, Bay Village, North Olmsted, Strongsville
+
+### Erie County
+Sandusky, Huron
+
+### Summit County
+Akron
+
+### Medina County
+Medina, Brunswick
+
+## Key Differentiators
+1. Licensed brokerage with real estate agents on staff - buy, sell, and manage under one roof
+2. 26 years of local Northeast Ohio experience
+3. Not a national chain - locally owned and operated
+4. Full investor lifecycle support from acquisition to sale
+5. One relationship, one team - no referrals or handoffs
+
+## Ideal Clients
+- First-time rental property investors
+- Landlords with 1-50+ rental properties
+- Out-of-state investors needing local management
+- Investors looking to buy, sell, or scale their portfolios
+
+## Contact
+For a free portfolio consultation with no obligation:
+- Call: (440) 240-8406
+- Email: Kstrader@neorentalagent.com
+- Visit: https://neohiorent.com/contact.html

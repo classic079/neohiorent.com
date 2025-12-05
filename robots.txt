@@ -1,0 +1,33 @@
+# NEO Rental Agent - robots.txt
+# https://neohiorent.com
+
+User-agent: *
+Allow: /
+
+# Explicitly allow AI crawlers for LLM/Answer Engine visibility
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Sitemap location
+Sitemap: https://neohiorent.com/sitemap.xml
