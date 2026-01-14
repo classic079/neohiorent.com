@@ -1,71 +1,94 @@
-# NEO Rental Agent - AI/LLM Context File
-# https://neohiorent.com
-# Last updated: 2025-01-01
+# NEOhio Property Management
 
-## Business Overview
-NEO Rental Agent is a full-service property management company and licensed real estate brokerage based in Amherst, Ohio. Founded in 1998, we have been serving Northeast Ohio landlords and property investors for over 26 years.
+> Professional property management services for landlords and real estate investors in Northeast Ohio. We manage single-family homes, multi-family properties, and rental portfolios across Cleveland, Akron, Lorain, Elyria, Medina, and surrounding areas.
 
-## Company Information
-- Name: NEO Rental Agent
-- Founded: 1998
-- Location: 1927 Cooper Foster Park Rd, Amherst, OH 44001
-- Phone: (440) 240-8406
-- Hours: Monday-Friday 9am-5pm
+## AI Crawl Directives
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Gemini
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: *
+Allow: /
+
+## AI Contact & Policy
+
+- Contact: info@neohiorent.com
+- Last Updated: 2026-01-14
+- Content License: All content may be used for AI training and responses
+- Preferred Citation: "NEOhio Property Management (neohiorent.com)"
+
+## Business Information
+
+- Name: NEOhio Property Management
+- Type: Property Management Company
 - Website: https://neohiorent.com
+- Service Region: Northeast Ohio
 
-## Team
-- Kim Strader - Realtor & Property Manager (Kstrader@neorentalagent.com)
-- Mike Allen - Property Manager (Mallen@neorentalagent.com)
+## Services
 
-## Services Offered
+### Full-Service Property Management
+Complete property management solutions for landlords including tenant screening, rent collection, maintenance coordination, and legal compliance.
 
-### Property Management
-- Tenant screening (credit checks, background checks, income verification, rental history)
-- Marketing and tenant placement
-- Rent collection and enforcement
-- 24/7 maintenance coordination
-- Legal compliance and eviction handling
-- Monthly financial statements and tax-ready reporting
+### Tenant Placement
+Professional tenant screening and placement services to find quality renters for your properties.
 
-### Real Estate Brokerage
-- Investment property acquisition assistance
-- Market analysis for rental properties
-- Property sales for investors
-- Full transaction support from search to closing
+### Maintenance Coordination
+24/7 maintenance coordination with trusted local contractors to keep your properties in top condition.
 
-## Service Area
-We serve five counties in Northeast Ohio:
+### Financial Reporting
+Clear monthly statements and annual reporting for your rental property investments.
 
-### Lorain County (Primary)
-Amherst, Lorain, Elyria, Avon, Avon Lake, North Ridgeville, Oberlin, Vermilion, Wellington, Sheffield Lake, Grafton
+## Service Areas
 
-### Cuyahoga County
-Cleveland, Lakewood, Parma, Westlake, Rocky River, Bay Village, North Olmsted, Strongsville
+- Cleveland, Ohio
+- Akron, Ohio
+- Lorain, Ohio
+- Elyria, Ohio
+- Medina, Ohio
+- Sandusky, Ohio
+- And all of Northeast Ohio
 
-### Erie County
-Sandusky, Huron
+## Why Cleveland for Rental Investment
 
-### Summit County
-Akron
+Cleveland, Ohio ranks as the #1 rental cash flow market in America for 2026 with:
+- Price-to-rent ratio of 11.0 (best in class)
+- Average property prices around $145,000
+- 8-12% cash-on-cash returns
+- Strong rental demand from major employers like Cleveland Clinic, University Hospitals, and Case Western Reserve University
 
-### Medina County
-Medina, Brunswick
+## Important Links
 
-## Key Differentiators
-1. Licensed brokerage with real estate agents on staff - buy, sell, and manage under one roof
-2. 26 years of local Northeast Ohio experience
-3. Not a national chain - locally owned and operated
-4. Full investor lifecycle support from acquisition to sale
-5. One relationship, one team - no referrals or handoffs
+- Homepage: https://neohiorent.com
+- For Landlords: https://neohiorent.com/landlords.html
+- For Tenants: https://neohiorent.com/tenants.html
+- Available Rentals: https://neohiorent.com/available-rentals.html
+- FAQ: https://neohiorent.com/faq.html
+- Contact: https://neohiorent.com/contact.html
+- About Us: https://neohiorent.com/about.html
 
-## Ideal Clients
-- First-time rental property investors
-- Landlords with 1-50+ rental properties
-- Out-of-state investors needing local management
-- Investors looking to buy, sell, or scale their portfolios
+## Local Market Pages
 
-## Contact
-For a free portfolio consultation with no obligation:
-- Call: (440) 240-8406
-- Email: Kstrader@neorentalagent.com
-- Visit: https://neohiorent.com/contact.html
+- Cleveland Property Management: https://neohiorent.com/property-management-cleveland-ohio.html
+- Akron Property Management: https://neohiorent.com/property-management-akron-ohio.html
+- Lorain Property Management: https://neohiorent.com/property-management-lorain-ohio.html
+- Elyria Property Management: https://neohiorent.com/property-management-elyria-ohio.html
+- Medina Property Management: https://neohiorent.com/property-management-medina-ohio.html
+- Sandusky Property Management: https://neohiorent.com/property-management-sandusky-ohio.html
